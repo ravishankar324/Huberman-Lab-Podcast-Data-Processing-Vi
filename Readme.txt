@@ -1,0 +1,1 @@
+Please refer https://app.powerbi.com/groups/30667b47-f4cd-43ac-a864-7a0800fd9464/reports/5ea94864-d516-4963-8a09-cedf8fdb7308?ctid=7afb9e22-9308-4186-8e29-ea231ff3baf7&pbi_source=linkShare to view Power BI dashboard.
